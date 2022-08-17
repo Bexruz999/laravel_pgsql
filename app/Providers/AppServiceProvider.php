@@ -13,7 +13,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        https://github.com/Bexruz999/laravel_pgsql.git
     }
 
     /**
